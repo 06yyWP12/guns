@@ -47,7 +47,7 @@ import java.util.Map;
  * shiro权限管理的配置
  *
  * @author fengshuonan
- * @date 2016年11月14日 下午3:03:44
+ * @date 2023-03-10 下午3:03:44
  */
 @Configuration
 public class ShiroConfig {

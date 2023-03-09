@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
  * </p>
  *
  * @author zxx
- * @since 2018-12-29
+ * @since 2023-03-10
  */
 @Service
 public class DoctorPointServiceImpl extends ServiceImpl<DoctorPointMapper, DoctorPoint> implements IDoctorPointService {

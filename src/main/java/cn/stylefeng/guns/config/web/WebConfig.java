@@ -48,7 +48,7 @@ import java.util.Properties;
  * web 配置类
  *
  * @author fengshuonan
- * @date 2016年11月12日 下午5:03:32
+ * @date 2023-03-10 下午5:03:32
  */
 @Configuration
 public class WebConfig implements WebMvcConfigurer {
